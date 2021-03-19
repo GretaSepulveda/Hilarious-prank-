@@ -61,7 +61,7 @@ export default function Article(props) {
           </Link>
         </p>
         <p className="foot">
-          This is a project lovingly made by <a href="https://twitter.com/cassidoo">@cassidoo</a>!
+          This is a project lovingly made by <a href="https://twitter.com/GretaDeveloper">@GretaSepulveda</a>!
         </p>
       </div>
       <style jsx global>{`
