@@ -53,7 +53,7 @@ export default function Home() {
           align-items: center;
         }
         input {
-          margin: 10px 0;
+          margin: 12px 0;
           width: 100%;
         }
       `}</style>
