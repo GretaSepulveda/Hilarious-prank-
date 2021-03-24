@@ -17,7 +17,7 @@ export default function Footer() {
           }
           .logo {
             height: 1em;
-            margin: 6px;
+            margin: 8px;
           }
         `}</style>
       </>
