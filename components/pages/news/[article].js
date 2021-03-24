@@ -55,7 +55,7 @@ export default function Article(props) {
         ></iframe>{' '}
         <br />
         <p>
-          Wow, you were pranked so good. I bet you wanna get your friends now, too.{` `}
+          Wow, you were pranked so good! I bet you wanna get your friends now, too.{` `}
           <Link href="/">
             <a>Go ahead, do it.</a>
           </Link>
