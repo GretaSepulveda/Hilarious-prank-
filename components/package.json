@@ -3,8 +3,10 @@
   "version": "0.2.0",
   "private": true,
   "scripts": {
+    "start": "node your-script.js",
     "dev": "next",
     "build": "next build"
+    
   },
   "dependencies": {
     "next": "^10.0.9",
