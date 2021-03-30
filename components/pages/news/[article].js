@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router'
 import Link from 'next/link'
 import PrankHead from '@components/PrankHead'
-
+import node-module from 
 
 
 export function getStaticPaths() {
