@@ -2,6 +2,8 @@ import { useRouter } from 'next/router'
 import Link from 'next/link'
 import PrankHead from '@components/PrankHead'
 
+
+
 export function getStaticPaths() {
   return { paths: [], fallback: true }
 }
