@@ -4,6 +4,7 @@ import PrankHead from '@components/PrankHead'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
+
 export default function Home() {
   let [title, setTitle] = useState('')
 
