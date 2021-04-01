@@ -59,7 +59,7 @@ export default function Article(props) {
         <p>
           Wow, you were pranked so good! tehehe. . .and I bet you wanna get your friends now, too.{` `}
           <Link href="/">
-            <a>Go ahead, go for it.</a>
+            <a>Go ahead, go for it!</a>
           </Link>
         </p>
         <p className="foot">
