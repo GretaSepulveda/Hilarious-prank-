@@ -87,7 +87,7 @@ export default function Article(props) {
           border: 2px solid #2f2f2f;
           border-right: none;
           border-left: none;
-          padding: 12px 0 12px 0;
+          padding: 12px 0 13px 0;
           margin-bottom: 20px;
           width: 100%;
         }
