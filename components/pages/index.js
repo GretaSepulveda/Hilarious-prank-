@@ -13,7 +13,7 @@ export default function Home() {
       <PrankHead title="Chicag0 Tribune News" />
 
       <main>
-        <Header title="Let's prank people!" />
+        <Header title="Let's prank some people!" />
         <div className="description">
           Type in the prank article you'd like to share with folks: <br />
           <input
