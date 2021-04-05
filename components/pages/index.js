@@ -47,14 +47,14 @@ export default function Home() {
         }
         main {
           padding: 5rem 0;
-          flex: 1;
+          flex: 2;
           display: flex;
           flex-direction: column;
           justify-content: center;
           align-items: center;
         }
         input {
-          margin: 17px 0;
+          margin: 1px 0;
           width: 100%;
         }
       `}</style>
