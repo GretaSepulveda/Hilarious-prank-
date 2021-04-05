@@ -26,7 +26,7 @@ export default function Home() {
           />
           {title.length > 0 && (
             <div>
-              Send this URL to your buddies! <br />
+              Send this URL to your pals! <br />
               <Link href={`/news/${title.toLowerCase().split(' ').join('-')}`}>
                 <a>chicag0tribune.netlify.app/news/{title.toLowerCase().split(' ').join('-')}</a>
               </Link>
