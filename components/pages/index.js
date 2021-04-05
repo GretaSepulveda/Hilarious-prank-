@@ -54,7 +54,7 @@ export default function Home() {
           align-items: center;
         }
         input {
-          margin: 14px 0;
+          margin: 17px 0;
           width: 100%;
         }
       `}</style>
