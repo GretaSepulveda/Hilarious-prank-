@@ -18,7 +18,7 @@ export default function Home() {
           Type in the prank article you'd like to share with folks: <br />
           <input
             type="text"
-            placeholder="Antoinette saves the entire park"
+            placeholder="Antoinette saves the entire park!"
             value={title}
             onChange={(e) => {
               setTitle(e.target.value)
