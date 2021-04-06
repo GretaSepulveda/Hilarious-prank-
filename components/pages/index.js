@@ -46,8 +46,8 @@ export default function Home() {
           align-items: center;
         }
         main {
-          padding: 5rem 0;
-          flex: 4;
+          padding: 8rem 0;
+          flex: 2;
           display: flex;
           flex-direction: column;
           justify-content: center;

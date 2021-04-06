@@ -1,5 +1,5 @@
 {
-  "name": "next-prankz",
+  "name": "c",
   "version": "0.4.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,17 @@
     "next": "^10.0.9",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "main": "Header.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Hilarious -prank"
+  },
+  "keywords": [
+    "joke"
+  ],
+  "author": "Greta Sepulveda",
+  "license": "ISC",
+  "description": ""
 }
