@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <div className="container">
-      <PrankHead title="Chicag0 Tribune latest News " />
+      <PrankHead title="Chicag0 Tribune TOP latest News " />
 
       <main>
         <Header title="Let's prank some people y'all!" />
