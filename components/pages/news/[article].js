@@ -88,7 +88,7 @@ export default function Article(props) {
           border-right: none;
           border-left: none;
           padding: 12px 0 13px 0;
-          margin-bottom: 17px;
+          margin-bottom: 14px;
           width: 100%;
         }
         .foot {
